@@ -1,0 +1,837 @@
+[2021-05-07 20:56:22] Текст ошибки: Undefined variable: debug |  Файл: C:\web\OpenServer\domains\fw.loc\app\controllers\MainController.php|  Строка:29
+         
+==================================
+[2021-05-08 16:42:01] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-08 16:42:43] Текст ошибки: Метод <b>app\controllers\UserController::logoutAction</b> не найден |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:67
+         
+==================================
+[2021-05-08 16:43:03] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-08 16:43:45] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-08 16:44:14] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-08 16:46:15] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-08 16:46:16] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-08 16:46:17] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-08 18:10:36] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-08 18:10:46] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:15:40] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:19:56] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:24:43] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:24:44] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:24:47] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:24:49] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:33:12] Текст ошибки: Undefined index: error |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php|  Строка:22
+         
+==================================
+[2021-05-10 12:45:41] Текст ошибки: Undefined index: error |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php|  Строка:28
+         
+==================================
+[2021-05-10 12:45:46] Текст ошибки: Undefined index: error |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php|  Строка:28
+         
+==================================
+[2021-05-10 12:45:48] Текст ошибки: Undefined index: error |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php|  Строка:28
+         
+==================================
+[2021-05-10 12:47:32] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:48:19] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:49:15] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:49:52] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:49:58] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:49:58] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:50:08] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 12:52:19] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:25:10] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:25:11] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:25:16] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:25:28] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:25:34] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:25:43] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:33:21] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-10 13:35:19] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-10 13:36:57] Текст ошибки: Метод <b>app\controllers\UserController::indexAction</b> не найден |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:67
+         
+==================================
+[2021-05-10 13:41:01] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:41:35] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:41:42] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:41:50] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:44:56] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:45:18] Текст ошибки: Контроллер <b>app\controllers\SignupController</b> не найден |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:70
+         
+==================================
+[2021-05-10 13:45:35] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:45:49] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:47:31] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 13:48:14] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 14:34:10] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'faraongold' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:51:58] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'faraongold' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:52:09] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '123123' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:52:22] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:52:46] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin111' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:53:12] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin111' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:53:12] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 14:53:36] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DFCZ' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:55:03] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DFCZ' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 14:58:28] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'admin' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 15:00:32] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 15:00:39] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'faraongold' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 15:01:16] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'faraongold' for key 'user.login' |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 15:08:25] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fw.user1' doesn't exist |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\rb.php|  Строка:834
+         
+==================================
+[2021-05-10 19:11:39] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:13:03] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:13:10] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:13:13] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:15:07] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:17:07] Текст ошибки: syntax error, unexpected '}', expecting end of file |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:61
+         
+==================================
+[2021-05-10 19:17:23] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:18:07] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:19:09] Текст ошибки: Undefined variable: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:19:33] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:20:11] Текст ошибки: Use of undefined constant login - assumed 'login' |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:20:24] Текст ошибки: Use of undefined constant login - assumed 'login' |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:20:27] Текст ошибки: Use of undefined constant login - assumed 'login' |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:20:33] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:21:13] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:21:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:22:10] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:22:36] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:22:42] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:23:17] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:23:18] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:23:19] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:23:22] Текст ошибки: Метод <b>app\controllers\UserController::indexAction</b> не найден |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:67
+         
+==================================
+[2021-05-10 19:23:35] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:24:57] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:25:15] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:29:50] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:30:26] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:31:06] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-10 19:36:32] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:41:58] Текст ошибки: Undefined variable: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:43:53] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:49
+         
+==================================
+[2021-05-10 19:46:20] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:49:00] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-10 19:49:02] Текст ошибки: Too few arguments to function debug(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php on line 34 and exactly 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\functions.php|  Строка:2
+         
+==================================
+[2021-05-10 19:49:06] Текст ошибки: Too few arguments to function debug(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php on line 34 and exactly 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\functions.php|  Строка:2
+         
+==================================
+[2021-05-10 19:49:07] Текст ошибки: Too few arguments to function debug(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php on line 34 and exactly 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\functions.php|  Строка:2
+         
+==================================
+[2021-05-10 19:49:08] Текст ошибки: Too few arguments to function debug(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php on line 34 and exactly 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\functions.php|  Строка:2
+         
+==================================
+[2021-05-10 19:49:09] Текст ошибки: Too few arguments to function debug(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php on line 34 and exactly 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\functions.php|  Строка:2
+         
+==================================
+[2021-05-10 19:49:11] Текст ошибки: Too few arguments to function debug(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\default.php on line 34 and exactly 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\functions.php|  Строка:2
+         
+==================================
+[2021-05-10 19:49:11] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:51:46] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:51:52] Текст ошибки: Undefined index: password |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:50
+         
+==================================
+[2021-05-10 19:54:06] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:57:18] Текст ошибки: syntax error, unexpected '$user' (T_VARIABLE) |  Файл: C:\web\OpenServer\domains\fw.loc\app\controllers\UserController.php|  Строка:36
+         
+==================================
+[2021-05-10 19:58:08] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:58:18] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 19:59:05] Текст ошибки: Undefined index: login |  Файл: C:\web\OpenServer\domains\fw.loc\app\models\User.php|  Строка:48
+         
+==================================
+[2021-05-10 20:00:18] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 20:03:52] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 20:03:53] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 20:04:27] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 20:04:49] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-10 20:05:01] Текст ошибки: <p>Не найден вид <b>C:\web\OpenServer\domains\fw.loc/app/views/User/logout.php</b></p> |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:47
+         
+==================================
+[2021-05-10 20:05:09] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:18:31] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:37:29] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:37:35] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:37:44] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:38:27] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:38:36] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:38:37] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:42:25] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:43:22] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:44:55] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:47:43] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 10:56:11] Текст ошибки: Undefined variable: meta |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\layouts\test.php|  Строка:11
+         
+==================================
+[2021-05-13 11:01:58] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:02:43] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:02:45] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:13:22] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:14:19] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:17:00] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:23:40] Текст ошибки: Undefined variable: content |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\Main\test.php|  Строка:3
+         
+==================================
+[2021-05-13 11:33:23] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:33:25] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:33:26] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:33:27] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:43:41] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:45:13] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:45:15] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:46:27] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 11:48:19] Текст ошибки: extract() expects parameter 1 to be array, string given |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\Controller.php|  Строка:34
+         
+==================================
+[2021-05-13 12:20:16] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:23:29] Текст ошибки: syntax error, unexpected '$this' (T_VARIABLE) |  Файл: C:\web\OpenServer\domains\fw.loc\app\controllers\MainController.php|  Строка:48
+         
+==================================
+[2021-05-13 12:24:44] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:24:44] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:48:05] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:48:05] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:48:10] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:49:35] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:55:33] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:56:05] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:56:38] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:56:39] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:58:08] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:58:18] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:58:23] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 12:58:56] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:01:25] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:02:27] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:02:43] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:04:31] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:05:15] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:05:52] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:06:22] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:06:47] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:07:39] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:07:51] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:08:21] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:08:55] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:09:00] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:09:21] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:32:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:32:46] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:43:11] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:44:36] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:44:49] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:44:53] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 13:57:38] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:01:54] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:02:22] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:02:23] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:02:29] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:04:05] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:11:33] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:14:55] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 14:14:56] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 15:50:11] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 16:47:18] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 16:53:10] Текст ошибки: Undefined variable: page |  Файл: C:\web\OpenServer\domains\fw.loc\app\controllers\MainController.php|  Строка:26
+         
+==================================
+[2021-05-13 16:53:27] Текст ошибки: Call to undefined function fw\libs\getCurrentPage() |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\Pagination.php|  Строка:19
+         
+==================================
+[2021-05-13 16:54:32] Текст ошибки: Call to undefined function fw\libs\getCurrentPage() |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\Pagination.php|  Строка:19
+         
+==================================
+[2021-05-13 16:56:42] Текст ошибки: Undefined property: fw\libs\Pagination::$getParams |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\Pagination.php|  Строка:20
+         
+==================================
+[2021-05-13 16:57:26] Текст ошибки: Undefined property: fw\libs\Pagination::$getParams |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\libs\Pagination.php|  Строка:20
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:03:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:02] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:02] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:02] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:21] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:21] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:30] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:30] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:06:30] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:07:02] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:07:11] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:07:16] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:07:21] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:09:24] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:09:27] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:09:58] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:10:04] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:10:05] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:10:06] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:10:06] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:10:07] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:22:35] Текст ошибки: Use of undefined constant post - assumed 'post' |  Файл: C:\web\OpenServer\domains\fw.loc\app\views\Main\index.php|  Строка:18
+         
+==================================
+[2021-05-13 21:22:46] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:22:54] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:22:56] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:25:16] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:26:59] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:27:58] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:27:58] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:29:46] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:35:50] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:37:00] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:37:19] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:37:44] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:38:44] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:39:15] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:40:40] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:40:40] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:40:53] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:41:36] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:41:38] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:41:42] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:41:53] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:41:55] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:41:55] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:42:16] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:44:28] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:44:31] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:44:31] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:44:39] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 21:54:34] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:06:40] Текст ошибки: Too few arguments to function fw\core\base\View::__construct(), 0 passed in C:\web\OpenServer\domains\fw.loc\app\views\layouts\blog.php on line 74 and at least 1 expected |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\base\View.php|  Строка:29
+         
+==================================
+[2021-05-13 22:06:40] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:07:49] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:13:37] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:21:23] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:21:37] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:21:40] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:22:42] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-05-13 22:24:34] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-07-13 13:07:36] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-07-13 13:07:54] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-07-13 13:07:59] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
+[2021-07-13 13:08:12] Текст ошибки: Страница не найдена |  Файл: C:\web\OpenServer\domains\fw.loc\vendor\fw\core\Router.php|  Строка:75
+         
+==================================
